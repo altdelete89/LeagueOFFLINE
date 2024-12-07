@@ -1,5 +1,5 @@
 # LeagueOFFLINE
- A tool to toggle your online status on LeagueClient chat.
+ A tool to toggle your online status on LeagueClient chat. Created by altdelete89.
 
 ![Screenshot](image.png)
 
